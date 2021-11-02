@@ -1,0 +1,13 @@
+{
+  "name": "testnft1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.6.7"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@openzeppelin/hardhat-upgrades": "^1.11.0"
+  }
+}
